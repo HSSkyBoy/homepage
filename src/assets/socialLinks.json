@@ -2,7 +2,7 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "写的垃圾",
+    "tip": "写的垃圾程序",
     "url": "https://github.com/HSSkyBoy"
   },
   {
@@ -21,7 +21,7 @@
     "name": "个人TG",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/HSSkyBoy"
+    "url": "https://t.me/HSSkyBoy_bot"
   },
   {
     "name": "NPatch",
