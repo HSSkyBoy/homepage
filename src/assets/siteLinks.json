@@ -1,7 +1,12 @@
 [
   {
     "icon": "Blog",
-    "name": "Web",
+    "name": "主页",
     "link": "https://hsskyboy.us.kg/"
+  },
+  {
+    "icon": "/images/icon/mcmod.png",
+    "name": "MC百科",
+    "link": "https://mcmod.cn/author/33451.html"
   }
 ]
